@@ -36,6 +36,8 @@ void main(void) {
 
 	
 	Middle_Line = 62;
+	//wakka
+
 
 
 	Control_Info.MotorStop =  1;
